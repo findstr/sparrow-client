@@ -1,0 +1,41 @@
+{
+    "list": [
+        null,
+        "大世界",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "node": [
+        {
+            "id": 1,
+            "name": "大世界",
+            "children": [],
+            "isOpen": true
+        }
+    ]
+}
